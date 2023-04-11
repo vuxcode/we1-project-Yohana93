@@ -38,3 +38,14 @@
     float:left;
     height: 70px;
 }
+
+UL{
+    float: left;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+}
