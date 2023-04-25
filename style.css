@@ -97,6 +97,12 @@ ul li a:hover{
     font-size:15;
     border-bottom-right-radius: 5px;
     border-bottom-right-radius:5px;
-    
 }
 
+.btn:focus{
+    outline:none;
+}
+
+.srch:focus{
+    outline:none;
+}
