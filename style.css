@@ -6,7 +6,7 @@
 
 .main{
     width: 100%;
-    background:#3e9195;
+    background:#30add7;
 }
 
 .navbar{
@@ -22,12 +22,12 @@
 }
 
 .logo{
-    color: #64953e;
-    font-size: 35px;
+    color: #be1616;
+    font-size: 25px;
     font-familY: Arial;
-    padding-left:20px;
+    padding-left:25px;
     float:left;
-    padding-top: 10px;
+    padding-top: 5px;
 }
 
 .menu{
@@ -51,7 +51,7 @@ ul li{
 
 ul li a{
     text-decoration:none;
-    color:#4e7e9c;
+    color:#31c331;
     font-family:Arial;
     font-weight:bold;
     transition:0,4s ease-in-out;
@@ -131,7 +131,7 @@ ul li a:hover{
     width: 160px;
     height: 40px;
     background:#64953e;
-    border:#3e9195;
+    border:#59953e;
     margin-bottom: 10px;
     margin-left:20px;
     font-size:18px;
@@ -147,7 +147,7 @@ ul li a:hover{
 }
 
 .cn:hover{
-    background-color:#1ea27f;
+    background-color:#3da21e;
 }
 
 .content span{
@@ -158,7 +158,7 @@ ul li a:hover{
 .form{
 width: 250px;
 height: 380px;
-background: linear-gradient(to top, rgba(0,0,0,0.8)50%);
+background: linear-gradient(to top, rgba(48, 213, 106, 0.8)50%);
 position: absolute;
 top: 20px;
 left: 870px;
@@ -205,7 +205,7 @@ padding: 25px;
 .btnn{
     width:200px;
     height:40px;
-    background:#dac33d;
+    background:#6dd145;
     border: none;
     margin-top: 30px;
     font-size: 18px;
@@ -222,7 +222,7 @@ padding: 25px;
 
 .btnn a{
     text-decoration: none;
-    color:#ccdbac;
+    color:#6cd16a;
     font-weight: bold;
 }
 .form .link{
