@@ -86,7 +86,7 @@ ul li a:hover{
 .btn{
     width:100%;
     height:40px;
-    background:#64953e;
+    background-color: #1ea27f;
     border: 2px solid #64953e;
     margin-top:13px;
     color:#64953e;
@@ -261,5 +261,6 @@ padding: 25px;
     color:#64953e;
 
 }
+
 
 
