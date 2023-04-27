@@ -6,10 +6,7 @@
 
 .main{
     width: 100%;
-    background:#523e95
-    background-fixedcenter;
-    background-size:marker
-    height-first-letter
+    background:#3e9195;
 }
 
 .navbar{
@@ -34,9 +31,8 @@
 }
 
 .menu{
-    width:400px;
-    float:left;
-    height: 70px;
+    width: 0px;
+    height: 0px;
 }
 
 UL{
