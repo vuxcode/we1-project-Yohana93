@@ -186,7 +186,7 @@ padding: 25px;
     border-top: none;
     border-right: none;
     border-left: none;
-    color:#2a338a;
+    color:#c2de5e;
     font-size: 15px;
     letter-spacing: 1px;
     margin-top: 30px;
@@ -198,20 +198,20 @@ padding: 25px;
 }
 
 ::placeholder{
-    color:#0c1a41;
+    color:#afd472;
     font-family: Arial;
 }
 
 .btnn{
     width:200px;
     height:40px;
-    background:#64953e;
+    background:#dac33d;
     border: none;
     margin-top: 30px;
     font-size: 18px;
     border-radius: 10px;
     cursor: pointer;
-    color: #2e2c68;
+    color: #c6d18c;
     transition: 0,4s ease;
 }
 
@@ -222,7 +222,7 @@ padding: 25px;
 
 .btnn a{
     text-decoration: none;
-    color:#961212;
+    color:#ccdbac;
     font-weight: bold;
 }
 .form .link{
@@ -234,7 +234,7 @@ padding: 25px;
 
 .form.link a{
     text-decoration: none;
-    color: #64953e;
+    color: #d9db68;
 }
 
 .liw{
@@ -245,11 +245,11 @@ padding: 25px;
 
 .icons a{
     text-decoration: none;
-    color:#433c83;
+    color:#dfd882;
 }
 
 .icons ion-icon{
-    color:#183586;
+    color:#e9cb8c;
     font-size:30px;
     padding-left:14px;
     padding-top: 5px;
@@ -258,7 +258,7 @@ padding: 25px;
 }
 
 .icons ion-icon:hover{
-    color:#64953e;
+    color:#b57d7b;
 
 }
 
