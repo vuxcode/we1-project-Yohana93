@@ -104,3 +104,10 @@ ul li a:hover{
     float:left;
     margin-left:270px;
 }
+
+.ul li a :hover{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size:14px;
+}
