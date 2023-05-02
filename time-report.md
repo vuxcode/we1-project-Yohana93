@@ -5,6 +5,7 @@
 2023-04-25 worked 1,5 hours
 2023-04-27 worked 5 hours
 2023-04-28 worked 4 hours
+2023-05-02 worked 5 hours
 
 > Write about what you have done and how long you have worked on each part of the project.
 
