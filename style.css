@@ -8,10 +8,10 @@
     background-image:OIP(1),jpg;
     background-position: center;
     background-size: cover;
-    padding-left: 5px;
-    padding-bottom: 5px;
+    padding-left: 100px;
+    padding-bottom: 100px;
     box-sizing: border-box;
-    position: relative;
+    position: center;
 }
 .navbar{
     width: 100%;
@@ -21,11 +21,7 @@
     align-items: center;
 }
 .logo{
-    width: 40px;
-    cursor: pointer;
-}
-.cart{
-    width: 160px;
+    width: 100px;
     cursor: pointer;
 }
 nav{
@@ -43,11 +39,11 @@ nav ul li a{
     color:#1d257a;
 }
 .content h1{
-    font-size: 60px;
-    font-weight: 100px;
+    font-size: 30px;
+    font-weight: 25px;
     margin-top: 24px;
-    margin-bottom: 15px;
-    color: #953232;
+    margin-bottom: 25px;
+    color: #359f83;
 }
 .content p{
     font-size: 20px;
@@ -67,24 +63,14 @@ nav ul li a{
     color: #953232;
     box-shadow: 3px 8px 22px rgba(94, 28, 68, 15);
 }
-.arrow-icons img{
-    width: 40px;
-    margin-right: 25px;
-}
 nav ul li a:hover{
     color: #1c16be;
-}
-.future-img{
-    height: 90%;
-    position: absolute;
-    bottom: 0;
-    right: 160px;
 }
 .social-link{
     transform-origin: 10px;
     position: relative;
 }
-.social-link a{
+.icon a{
     text-decoration: none;
     color: #953232;
     padding-bottom: 20px;
