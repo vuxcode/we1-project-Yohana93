@@ -1,80 +1,39 @@
 *{
     margin: 0;
-    padding: 0;
+    padding:0;
+    font-family: sans-serif;
 }
-.contaioner{
+
+.hero{
+    position:relative;
+    width: 100%;
     height: 100vh;
-    width: 100%;
-    background-image:OIP(1),jpg;
-    background-position: center;
-    background-size: cover;
-    padding-left: 100px;
-    padding-bottom: 100px;
-    box-sizing: border-box;
-    position: center;
+    background: #eff4fd;
 }
-.navbar{
-    width: 100%;
-    height: 15vh;
-    margin: auto;
-    display: flex;
-    align-items: center;
-}
-.logo{
-    width: 100px;
-    cursor: pointer;
-}
+
 nav{
-    flex: 1;
-    padding-left: 60px;
+    display:flex;
+    width:84%;
+    margin:auto;
+    padding:20px 0;
+    align-items: center;
+    justify-content: space-between;
 }
 
 nav ul li{
     display: inline-block;
     list-style:none;
-    margin: 0px 20px;
+    margin: 1opx 20px;
 }
+
 nav ul li a{
     text-decoration: none;
-    color:#1d257a;
+    color:#000;
+    font-weight:bold;
 }
-.content h1{
-    font-size: 30px;
-    font-weight: 25px;
-    margin-top: 24px;
-    margin-bottom: 25px;
-    color: #359f83;
-}
-.content p{
-    font-size: 20px;
-    color: #8d9532;
-}
-.content{
-    margin-left: 10%;
-    margin-top: 10%;
-}
-.content .btn{
-    display: inline-block;
-    background: linear-gradient(45deg, #953232, #ff7cff);
-    border-radius: 6px;
-    padding: 10px 20px;
-    box-sizing: border-box;
-    text-decoration: none;
-    color: #953232;
-    box-shadow: 3px 8px 22px rgba(94, 28, 68, 15);
-}
+
 nav ul li a:hover{
-    color: #1c16be;
-}
-.social-link{
-    transform-origin: 10px;
-    position: relative;
-}
-.icon a{
-    text-decoration: none;
-    color: #953232;
-    padding-bottom: 20px;
-    font-size: 15px;
+    color: #be1616;
 }
 
 .detel{
@@ -83,12 +42,13 @@ nav ul li a:hover{
 }
 
 .detel h1{
-    font-size:30px;
-    color:#be1455ab;
+    font-size:50px;
+    color:#212121;
+    margin-bottom: 20px;
 }
 
 span{
-    color:none;
+    color:orange;
 }
 
 .detel p{
@@ -97,68 +57,38 @@ span{
 }
 
 .detel a{
-    background: #222e9f29;
+    background: #212121;
     padding: 10px 18px;
     text-decoration: none;
     font-family: bold;
-    color:#953232;
+    color:#fff;
     display: inline-block;
     margin:30px 0;
     border-radius: 5px;
 }
 
-.main{
-    width: 100%;
-    background:#faca47;
+.images{
+    width:45%;
+    height:80%;
+    position:absolute;
+    bottom: 0;
+    right: 100px;
 }
 
-.logo{
-    color: #503d88;
-    font-size: 25px;
-    font-familY: Arial;
-    padding-left:25px;
+.images img{
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%);
+    transition: bottom 1s, left1s;
 }
 
-.menu{
-    width: 0px;
-    height: 0px;
+.images:hover .image{
+    bottom: 40px;
 }
 
-UL{
-    float: left;
-    display: flex;
-    justify-content:center;
-    align-items: center;
-}
+.images:hover .hair{
+    left:45%;
 
-ul li{
-    list-style: none;
-    margin-left: 62px;
-    margin-top: 27px;
-    font-size:14px;
-}
-
-ul li a{
-    text-decoration:none;
-    color:#ac358e;
-    font-family:Arial;
-    font-weight:bold;
-    transition:0,4s ease-in-out;
-}
-
-ul li a:hover{
-    color:#d77a32;
-
-}
-.search{
-    width:330px;
-    float:left;
-    margin-left:270px;
-}
-
-.ul li a :hover{
-    list-style: none;
-    margin-left: 62px;
-    margin-top: 27px;
-    font-size:14px;
 }
