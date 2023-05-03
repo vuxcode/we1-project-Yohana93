@@ -8,28 +8,28 @@ body{
 }
 h1{
     padding-top: 20px;
-    margin-left: 30px;
-    border-bottom: 2px solid rgb(177, 189, 190);
+    margin-left: 10px;
+    border-bottom: 2px solid rgb(30, 87, 172);
     width: 180px;
     cursor: pointer;
 }
 nav ul{
-    float: right;
+    float: left;
     margin: -40px 40px;
 }
 nav ul li{
     display: inline-block;
-    margin: 15px;
+    margin: 30px;
 }
 nav ul li a{
     text-decoration: none;
     font-size: 20px;
     padding: 5px 10px;
     border: 2px solid transparent;
-    color: rgb(190, 25, 171);
+    color: rgb(32, 12, 80);
 }
 nav ul li a:hover{
-    border: 2px solid rgb(83, 15, 38);
+    border: 2px solid rgb(54, 30, 139);
     transition: 0,5s;
     border-radius: 15px;
 }
@@ -42,8 +42,8 @@ h2{
 p{
     margin-left: 150px;
     font-size: 18px;
-    margin-top: 10px;
-    font-family: Calibri;
+    margin-top: 40px;
+    font-family: italic;
 }
 .Afro{
     margin-right: 150px;
@@ -75,7 +75,7 @@ img{
     margin: -12% 50px;
 }
 nav ul{
-    float: left;
+    float: right;
     margin: -40px 40px;
 }
 nav ul li{
@@ -87,10 +87,10 @@ nav ul li a{
     font-size: 20px;
     padding: 5px 10px;
     border: 2px solid transparent;
-    color: rgb(73, 141, 158);
+    color: rgb(11, 37, 121);
 }
 nav ul li a:hover{
-    border: 2px solid rgb(65, 162, 200);
+    border: 2px solid rgb(35, 21, 146);
     transition: 0,5s;
     border-radius: 15px;
 }
