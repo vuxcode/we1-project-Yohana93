@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Carlito:ital@1&display=swap');
 body{
-    background: url(project-web-pictures/hairsalin.jpg) no-repeat;
+    background: url(project-web-pictures/gm_image_18.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -72,7 +72,7 @@ p{
 }
 img{
     float: right;
-    margin: -12% 50px;
+    margin: -10% 30px;
 }
 nav ul{
     float: right;
