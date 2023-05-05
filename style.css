@@ -11,7 +11,6 @@ h1{
     margin-left: 10px;
     border-bottom: 2px solid rgb(30, 87, 172);
     width: 180px;
-    cursor: pointer;
 }
 nav ul{
     float: left;
@@ -26,24 +25,23 @@ nav ul li a{
     font-size: 20px;
     padding: 5px 10px;
     border: 2px solid transparent;
-    color: rgb(32, 12, 80);
+    color: rgb(133, 46, 49);
 }
 nav ul li a:hover{
-    border: 2px solid rgb(54, 30, 139);
+    border: 2px solid rgb(34, 73, 102);
     transition: 0,5s;
     border-radius: 15px;
 }
 h2{
-    margin-top: 15%;
-    margin-left: 150px;
+    margin-top: 10%;
+    margin-left: 10px;
     font-size: 35px;
-    font-family: cursive;
 }
 p{
-    margin-left: 150px;
-    font-size: 18px;
-    margin-top: 40px;
-    font-family: italic;
+    margin-left: 10px;
+    font-size: 40px;
+    margin-top: 10px;
+    text-decoration-color: brown;
 }
 .Afro{
     margin-right: 150px;
@@ -84,15 +82,16 @@ nav ul li{
 }
 nav ul li a{
     text-decoration: none;
-    font-size: 20px;
+    font-size: 35px;
     padding: 5px 10px;
     border: 2px solid transparent;
-    color: rgb(11, 37, 121);
+    color: rgb(29, 27, 172);
 }
 nav ul li a:hover{
     border: 2px solid rgb(35, 21, 146);
     transition: 0,5s;
-    border-radius: 15px;
+    border-radius: 20px;
+    background-color: rgb(115, 14, 90);
 }
 
 
