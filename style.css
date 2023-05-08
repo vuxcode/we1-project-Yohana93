@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Carlito:ital@1&display=swap');
 body{
-    background: url(project-web-pictures/gm_image_18.jpg) no-repeat;
+    background: url(project-web-pictures/OIP.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -11,6 +11,7 @@ h1{
     margin-left: 10px;
     border-bottom: 2px solid rgb(30, 87, 172);
     width: 180px;
+    text-decoration: aqua;
 }
 nav ul{
     float: left;
