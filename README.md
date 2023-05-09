@@ -7,7 +7,7 @@ Follow the instructions here: https://vuxcode.netlify.app/new/we1/lessons/major-
 The aim of the project is to show how you have developed your website, the steps you have taken and the problems you have solved!
 
 REMEMBER TO "COMMIT" YOUR CHANGES REGULARLY TO SHOW HOW YOU HAVE BUILT THIS PROJECT!
-Ichange my project css code many times to build this disign i make many changes.
+Ichange my project css code many times to build this disign I made many changes.
 # Project Notes
 
 > You can use this section of the file to keep notes about your project as you work on it
